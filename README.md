@@ -1,2 +1,2 @@
-# wunderman-demo
+
 demo app
